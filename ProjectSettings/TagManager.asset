@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - turret
+  - enemy
+  - wall
+  - collectible
+  - SpawnManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - turret
+  - Turret2
+  - enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundNoDetails
+    uniqueID: 2797426911
+    locked: 0
+  - name: BackgroundDetails
+    uniqueID: 19833113
+    locked: 0
+  - name: Player
+    uniqueID: 4127924077
+    locked: 0
+  - name: Roads
+    uniqueID: 1069968799
+    locked: 0
+  - name: Enemy
+    uniqueID: 594727725
+    locked: 0
+  - name: Turret
+    uniqueID: 3262663833
+    locked: 0
+  - name: Seagull
+    uniqueID: 1526786053
+    locked: 0
